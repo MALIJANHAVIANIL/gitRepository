@@ -1,4 +1,5 @@
 # gitRepository
-Janhavi Mali
-Anil Mali
+Janhavi
+Anil
+Mali
 
